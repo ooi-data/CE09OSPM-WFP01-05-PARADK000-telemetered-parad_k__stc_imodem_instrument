@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSPM-WFP01-05-PARADK000-telemetered-parad_k__stc_imodem_instrument
 data_stream: CE09OSPM-WFP01-05-PARADK000-telemetered-parad_k__stc_imodem_instrument
 end_date: '2021-07-06T18:33:18.000Z'
-last_updated: '2021-07-19T21:40:26.395299Z'
+last_updated: '2021-07-19T21:41:33.889637'
 start_date: '2014-04-19T03:02:36.000Z'
-status: pending
+status: success
